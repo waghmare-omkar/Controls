@@ -3,3 +3,5 @@ This folder is a collection of frequently used and needed matlab programs in con
 Here is a list of Codes present in the file and details about them:
 1) eulerF.m  --> Applies Forward or Explicit euler method to integrate/discretize ODE equations.
 2) spacecraft_attitude_dynamics.m --> Contains Spacecraft attitude dynamics 
+3) double_intg_pid.m --> Dynamics and PID control of double integrator
+4) sim_double_intg --> Simulate Double Integrator (Linked to 3)
