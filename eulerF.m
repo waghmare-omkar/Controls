@@ -1,5 +1,5 @@
 function [T, X] = eulerF(odeFun, tspan, x0)
-%This function uses forward euler integration technique to numerically integrate
+%This function uses forward euler integration technique to numerically integrate/discretize 
 %the EOM.
 %Best way to use this function is to call this function as a
 %'ODE45-type-solver' to do numerical integration or discretization.
