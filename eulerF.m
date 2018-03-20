@@ -1,4 +1,8 @@
 function [T, X] = eulerF(odeFun, tspan, x0)
+
+%Authour : Mr. Omkar Waghmare (Masters Student, Department of Aerospace, University of Michigan, Ann
+%Arbor)
+
 %This function uses forward euler integration technique to numerically integrate/discretize 
 %the EOM.
 %Best way to use this function is to call this function as a
