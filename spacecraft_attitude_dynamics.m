@@ -4,7 +4,7 @@ function [ Xdot ] = spacecraft_attitude_dynamics( t,X,U )
 %This Function contains spacecraft attitude dynamics.
 % Details of Input arguments
 % X = [w1 w2 w3 phi theta pssi]'    % Input the function -> note the order
-% phi -> roll angle, theta -> pitch angle , pssi-> yaw angle
+% phi -> roll angle, theta -> pitch angle , pssi-> yaw angle;
 % U = [u1 u2 u3]'                   % Input control moments
 clc
 clear all
