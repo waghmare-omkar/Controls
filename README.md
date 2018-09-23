@@ -5,3 +5,4 @@ Here is a list of Codes present in the file and details about them:
 2) spacecraft_attitude_dynamics.m --> Contains Spacecraft attitude dynamics 
 3) double_intg_pid.m --> Dynamics and PID control of double integrator
 4) sim_double_intg --> Simulate Double Integrator (Linked to 3)
+5) Simulating_Vehicle_Cruise_Control.m --> Simulating Vehicle Cruise Control Dynamics
