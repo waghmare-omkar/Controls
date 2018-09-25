@@ -6,3 +6,6 @@ Here is a list of Codes present in the file and details about them:
 3) double_intg_pid.m --> Dynamics and PID control of double integrator
 4) sim_double_intg --> Simulate Double Integrator (Linked to 3)
 5) Simulating_Vehicle_Cruise_Control.m --> Simulating Vehicle Cruise Control Dynamics
+6) KF_application_to_Vehicle_Cruise_Control.m --> Kalman Filter Implementation to Cruise Control
+7) Cruise_Control_Simulink --> Simulink Model with PID Controller of cruise control
+8) Cruise_Control_Simulink_Data.mat --> Workspace Data for Cruise_Control_Simulink Code.
